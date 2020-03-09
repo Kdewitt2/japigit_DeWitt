@@ -1,0 +1,23 @@
+Enter a stock symbol (or quit)
+Input: atvi
+The current price of atvi is: 57.1600"
+
+Enter a stock symbol (or quit)
+Input: ibm
+The current price of ibm is: 119.8300
+
+Enter a stock symbol (or quit)
+Input: aapl
+The current price of aapl is: 270.9400
+
+Enter a stock symbol (or quit)
+Input: sdf
+The stock with Symbol 'sdf' could not be found.
+
+Enter a stock symbol (or quit)
+Input: orcl
+The current price of orcl is: 46.2200"
+
+Enter a stock symbol (or quit)
+Input: quit
+Thanks, bye!
